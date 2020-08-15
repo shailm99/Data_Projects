@@ -5,4 +5,4 @@ To read my blog posts about my data explorations, which usually explain my inter
 
 [*My Data Blog*](https://sites.google.com/g.ucla.edu/shailmirpuri/)
 
-[*My Linkedin](https://www.linkedin.com/in/shail-mirpuri/)
+[*My Linkedin*](https://www.linkedin.com/in/shail-mirpuri/)
